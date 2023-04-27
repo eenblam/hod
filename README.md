@@ -1,2 +1,2 @@
-# Hannukah of Data 2022 Solutions
+# Hanukkah of Data 2022 Solutions
 See https://hanukkah.bluebird.sh/
